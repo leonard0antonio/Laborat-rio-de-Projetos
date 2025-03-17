@@ -1,6 +1,4 @@
-Aqui está o README em Markdown:  
 
-```md
 # Portfólio de Projetos 4.0
 
 Bem-vindo ao repositório **Portfólio de Projetos 4.0**, que contém códigos desenvolvidos durante o curso da Alura.
