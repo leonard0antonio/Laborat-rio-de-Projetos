@@ -1,5 +1,5 @@
 
-# Portfólio de Projetos 4.0
+# Laboratório de Projetos
 
 Bem-vindo ao repositório **Portfólio de Projetos 4.0**, que contém códigos desenvolvidos durante o curso da Alura.
 
